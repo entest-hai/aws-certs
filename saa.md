@@ -10,7 +10,7 @@ Date: 05 AUG 2022
 
 - Official exam guide [here](https://aws.amazon.com/certification/coming-soon/)
 - Sign up an account at [skillbuilder](https://explore.skillbuilder.aws/learn/signin)
-- Search & take: **Exam Readiness: AWS Certified Solutions Architect – Associate** from skillbuider [here](https://explore.skillbuilder.aws/learn/course/external/view/elearning/125/exam-readiness-aws-certified-solutions-architect-associate-digital). (imporant )
+- Search & take: **Exam Readiness: AWS Certified Solutions Architect – Associate** from skillbuider [here](https://explore.skillbuilder.aws/learn/course/external/view/elearning/125/exam-readiness-aws-certified-solutions-architect-associate-digital). (important )
 
 ## [Examtopics](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c02/)
 
